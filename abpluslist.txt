@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Title: Adblock
+! Version: 1.0
+! Licence: MIT
+! Description: An all-in-one adblock list.
+! Homepage: https://google.com
+
 ||050y9lhe8p.com
 ||0914.global.ssl.fastly.net
 ||0c3-a.tlnk.io
