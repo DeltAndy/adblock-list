@@ -3,7 +3,7 @@
 ! Version: 1.0
 ! Licence: MIT
 ! Description: An all-in-one adblock list.
-! Homepage: https://google.com
+! Homepage: https://github.com/DeltAndy/adblock-list
 
 ||050y9lhe8p.com
 ||0914.global.ssl.fastly.net
