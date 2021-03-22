@@ -1,0 +1,42 @@
+[Adblock Plus 2.0]
+! Title: GoodbyeAds-YouTube-AdBlock-Filter
+! Description: Blocks YouTube Ads.
+! License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+! Homepage: https://github.com/jerryn70/GoodbyeAds
+# --------------------------------------------
+# G O O D B Y E A D S  B E G I N S
+# --------------------------------------------
+||2975c.v.fwmrm.net^
+||2mdn.net^
+||acquisition-tracker.wix.com^
+||ad-g.doubleclick.net^
+||ad.doubleclick.net^
+||ad.mo.doubleclick.net^
+||ad.youtube.com^
+||ads.doubleclick.net^
+||ads.youtube.com^
+||akamaiedge.net^
+||akamaitechnologies.com^
+||analytic-google.com^
+||clients.l.google.com^
+||clients1.google.com^
+||clients6.google.com^
+||doubleclick.net^
+||dts.innovid.com^
+||files.adform.net^
+||fwmrm.net^
+||googleadapis.l.google.com^
+||googleads.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
+||googleadservices.com^
+||i1.ytimg.com^
+||innovid.com^
+||ocsp.comodoca.com^
+||pagead.googlesyndication.com^
+||pagead.l.doubleclick.net^
+||pagead1.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||pixel.adsafeprotected.com^
+||pixel.moatads.com^
+||pubads.g.doubleclick.net^
+||*.googlevideo.com^
